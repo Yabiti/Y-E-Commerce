@@ -4,5 +4,3 @@ export default function Home() {
   return <Products />
 }
 clearInterval
-
-
